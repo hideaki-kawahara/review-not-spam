@@ -1,10 +1,12 @@
 PREDEF:
-  - preface.re
+  - chap00-preface.re
 
 CHAPS:
-  - article.re
+  - chap01-delete.re
+  - chap02-filter.re
+  - chap03-allow-list.re
 
 APPENDIX:
 
 POSTDEF:
-  - contributors.re
+  - chap99-postscript.re
