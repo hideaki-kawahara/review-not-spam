@@ -2,10 +2,11 @@ PREDEF:
   - chap00-preface.re
 
 CHAPS:
-  - chap01-delete.re
-  - chap02-filter.re
-  - chap03-allow-list.re
-  - chap04-backup.re
+  - chap01-history.re
+  - chap02-delete.re
+  - chap03-filter.re
+  - chap04-allow-list.re
+  - chap05-backup.re
 
 APPENDIX:
 
