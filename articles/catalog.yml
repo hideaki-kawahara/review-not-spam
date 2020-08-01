@@ -5,6 +5,7 @@ CHAPS:
   - chap01-delete.re
   - chap02-filter.re
   - chap03-allow-list.re
+  - chap04-backup.re
 
 APPENDIX:
 
