@@ -3,10 +3,11 @@ PREDEF:
 
 CHAPS:
   - chap01-mail-history.re
-  - chap02_delete.re
-  - chap03-filter.re
-  - chap04-allow-list.re
-  - chap05-backup.re
+  - chap02_mail_value.re
+  - chap03_delete.re
+  - chap04-filter.re
+  - chap05-allow-list.re
+  - chap06-backup.re
 
 APPENDIX:
 
