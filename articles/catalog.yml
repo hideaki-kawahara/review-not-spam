@@ -4,7 +4,7 @@ PREDEF:
 CHAPS:
   - chap01-mail-history.re
   - chap02-spam-history.re
-  - chap03-delete.re
+  - chap03_delete.re
   - chap04-filter.re
   - chap05-allow-list.re
   - chap06-backup.re
