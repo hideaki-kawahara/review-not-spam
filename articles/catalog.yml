@@ -2,12 +2,15 @@ PREDEF:
   - chap00-preface.re
 
 CHAPS:
-  - chap01-mail-history.re
-  - chap02_mail_value.re
+  - chap01-email-history.re
+  - chap02_email_value.re
   - chap03_delete.re
   - chap04-filter.re
   - chap05-allow-list.re
   - chap06-backup.re
+  - chap07_a_blank_email.re
+  - chap08_check_effectiveness.re
+  - chap09_email_header.re
 
 APPENDIX:
 
