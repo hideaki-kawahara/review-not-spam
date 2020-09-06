@@ -41,17 +41,23 @@ IBM 7094は、アメリカ航空宇宙局（National Aeronautics and Space Admin
 
 日本でもパソコン通信のような物は存在したと思われるが、電話回線を通じた通信は日本電信電話公社（現在の日本電信電話株式会社）が独占しており、民間企業が参入することは禁じられていたので個人間や会社と従業員との利用に留まっていた。第2次臨時行政調査会による三公社の民営化論議をきっかけに、1984年12月20日に電電改革3法が衆参両議院にて可決され、1985年4月1日に日本電信電話公社の民営化@<fn>{NTT}が決定される。電電改革3法案の中には「電気通信事業法」があり、電気通信事業が明確に規定され届けを出せば民間企業でも「電話回線を通じた通信事業」を行えるようになり、1985年ごろからパソコン通信プロバイダーが登場し、1985年5月にアスキーネットがサービスを開始します。
 
-パソコン通信においてもメールは重要なサービスと位置付けられており
-//TODO
+パソコン通信においてもメールは重要なサービスと位置付けられておりましたが、パソコン通信事業者を超えたメールができないことが障壁となっておりました。ニフティサーブとCompuServeではメールの送受信が可能でしたが、1992年ごろからWIDEプロジェクト@<fn>{WIDE}を中心に、ニフティサーブ、PC-VAN（現在のBIGLOBE）、アスキーネットとインターネットでインターネット間でのメール送受信@<fn>{JUNNET}を行えるようになる。
 
+この出来事はパソコン通信の可能性を示すとともに、パソコン通信の未来を示すターニングポイントとなりました。
 
 //footnote[CompuServe][パソコン通信の老舗CompuServe Classicがサービス終了 @<href>{https://www.itmedia.co.jp/news/articles/0907/07/news074.html}]
 
 //footnote[NTT][経営ビジョン中期経営戦略と事業展開の6ページ @<href>{https://www.ntt.co.jp/about/pdf/10years_02.pdf}]
 
+
+//footnote[WIDE][「WIDE プロジェクト」（Widely Integrated Distributed Environment）1988年に発足した、企業、大学、公的機関のメンバーが参加する共同の研究グループ]
+
+
+//footnote[JUNNET][日本のインターネットの幕開けと進化 @<href>{https://www.nippon.com/ja/features/c01905/}]
+
 === Windows95の登場
 
-その後、多くの人が使うような爆発的な人気になったのは、@<b>{1995年11月23日に発売されたWindows 95の登場}からです。ただしWindows 95だけではインターネットとメールができません。別売のMicrosoft Plus! for Windows 95を購入すると、Microsoft Internet Explorer 2.0が付属しており、このソフトに同梱されていたMicrosoft Internet Mail and Newsを使用してメールします。
+メールを含めたインターネットが爆発的な人気になったのは、@<b>{1995年11月23日に発売されたWindows 95の登場}からです。ただしWindows 95だけではインターネットとメールができません。別売のMicrosoft Plus! for Windows 95を購入すると、Microsoft Internet Explorer 2.0が付属しており、このソフトに同梱されていたMicrosoft Internet Mail and Newsを使用してメールします。
 同時期に登場したNetscape Navigator 2.0（1995年9月18日リリース）にはNetscape Mailが付属していました。
 
 この当時は多くのメールソフトが発売されていますが、@<b>{ブラウザに付属という優位点でMicrosoft Internet Mail and NewsとNetscape Mailが良く使われていました。}1997年10月1日にInternet Explorer 4.0がリリースされ、それに付属する形でOutlook Express 4が登場してメールソフトの代表格と言われる時代になります。この状態はWebメール時代まで続きます。
@@ -143,6 +149,7 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 1985年4月1日	電気通信事業法施行
 1985年5月	アスキーネット開始
 1989年ごろ	PSINet開始
+1992年ごろ	大手パソコン通信会社とインターネット間のメール送受信開始
 1994年ごろ	大手プロバイダーが商用インターネットサービスを開始
 1995年9月18日	Netscape Navigator 2.0（Netscape Mail）リリース
 1995年11月23日	Windows95（Microsoft Internet Mail and News）リリース
