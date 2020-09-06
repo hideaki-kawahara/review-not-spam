@@ -10,9 +10,7 @@ CHAPS:
   - chap06-filter.re
   - chap07-allow-list.re
   - chap08-backup.re
-  - chap09_a_blank_email.re
-  - chap10_check_effectiveness.re
-  - chap11_email_header.re
+  - chap09_email_header.re
 
 APPENDIX:
 
