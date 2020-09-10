@@ -11,9 +11,10 @@ CHAPS:
   - chap07-allow-list.re
   - chap08-advertising.re
   - chap09_stop_email.re
-  - chap10_email_header.re
+  - chap10_matome.re
 
 APPENDIX:
+  - appendix_email_header.re
 
 POSTDEF:
   - contributors.re
