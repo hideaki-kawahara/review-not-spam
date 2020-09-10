@@ -7,7 +7,7 @@ CHAPS:
   - chap03_email_value.re
   - chap04_judgment.re
   - chap05_delete.re
-  - chap06-filter.re
+  - chap06_filter.re
   - chap07-allow-list.re
   - chap08-advertising.re
   - chap09_stop_email.re
