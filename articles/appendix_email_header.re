@@ -15,15 +15,20 @@
 //image[iCloud][メールヘッダー表示][scale=1]{
 //}
  * Outlook
- ** Outlookでインターネットメッセージヘッダーを表示する @<href>{https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c}
+ ** Outlookでインターネットメッセージヘッダーを表示する
+ ** @<href>{https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c}
  * ヤフーメール
- ** メールの送信者情報を詳しく表示する（詳細ヘッダー）@<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254}
+ ** メールの送信者情報を詳しく表示する（詳細ヘッダー）
+ ** @<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254}
  * NTTドコモ
- ** ヘッダー表示 @<href>{https://mail.smt.docomo.ne.jp/help/help_read_header.html}
+ ** ヘッダー表示
+ ** @<href>{https://mail.smt.docomo.ne.jp/help/help_read_header.html}
  * au
- ** メールヘッダー情報を確認する @<href>{https://www.au.com/mobile/service/webmail/usage/spam/#anc03}
+ ** メールヘッダー情報を確認する
+ ** @<href>{https://www.au.com/mobile/service/webmail/usage/spam/#anc03}
  * ソフトバンク
- ** ［S!メール（MMS）］Eメールヘッダー情報は確認できますか？ @<href>{https://www.softbank.jp/support/faq/view/10356}
+ ** ［S!メール（MMS）］Eメールヘッダー情報は確認できますか？
+ ** @<href>{https://www.softbank.jp/support/faq/view/10356}
 
 
 == SPFレコードの確認
