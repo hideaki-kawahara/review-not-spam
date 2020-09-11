@@ -81,4 +81,4 @@ Gmailは記号の使い方が、他のと少々違うので注意が必要です
 ====[/column]
 
 == メールアドレスの変更方法
-ドコモ：メールアドレスの変更方法 @<href>{https://www.nttdocomo.co.jp/service/spmode/function/mail/usage/set_up/change/}@<br>{}
+NTTドコモ：メールアドレスの変更方法 @<href>{https://www.nttdocomo.co.jp/service/spmode/function/mail/usage/set_up/change/}@<br>{}
