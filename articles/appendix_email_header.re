@@ -12,8 +12,8 @@
 //table[tbl1][あ]{
 サイト名	URL
 -----------------
-Gmailヘッダー全体からメールの経路を確認する	https://support.google.com/mail/answer/29436?hl=ja
-Outlookでインターネットメッセージヘッダーを表示する	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c
+Gmail	https://support.google.com/mail/answer/29436?hl=ja
+Outlook	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c
 //}
 
  * ヤフーメール
