@@ -27,4 +27,4 @@ au	KDDIが運営している携帯電話ブランド
 ---------------------------------------------
 //}
 
-//footnote[JISX0032][規格番号:JISX0032　規格名称:情報処理用語ー電子メール @<href>{https://www.jisc.go.jp/app/jis/general/GnrJISNumberNameSearchList?show&jisStdNo=X0032}]
+//footnote[JISX0032][https://www.jisc.go.jp/app/jis/general/GnrJISNumberNameSearchList?show&jisStdNo=X0032]
