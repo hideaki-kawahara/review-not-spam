@@ -8,29 +8,20 @@
 == メールヘッダーの確認方法
 基本的にスマートフォン以外では簡単に見ることができます。メールを開いてメニューの詳細などに「メッセージソースの確認」や「メールヘッダーの確認」などで見ることができます。スマートフォンではAndroidの一部のアプリで可能ですが、無理なときはパソコンからWebメールか携帯電話会社提供のサイトで確認してください。
 
-//tsize[20,100]
-//table[tbl1][あ]{
+//tsize[15,110]
+//table[tbl1][メールヘッダーの確認方法]{
 サイト名	URL
 -----------------
 Gmail	https://support.google.com/mail/answer/29436?hl=ja
-Outlook	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c
+Outlook	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c/
+ヤフーメール	https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254
+NTTドコモ	https://mail.smt.docomo.ne.jp/help/help_read_header.html
+au	https://www.au.com/mobile/service/webmail/usage/spam/#anc03
+ソフトバンク	https://www.softbank.jp/support/faq/view/10356
 //}
 
- * ヤフーメール
- ** メールの送信者情報を詳しく表示する（詳細ヘッダー）
- ** @<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254}
- * NTTドコモ
- ** ヘッダー表示
- ** @<href>{https://mail.smt.docomo.ne.jp/help/help_read_header.html}
- * au
- ** メールヘッダー情報を確認する
- ** @<href>{https://www.au.com/mobile/service/webmail/usage/spam/#anc03}
- * ソフトバンク
- ** ［S!メール（MMS）］Eメールヘッダー情報は確認できますか？
- ** @<href>{https://www.softbank.jp/support/faq/view/10356}
-
  * iCloud
- ** Webに説明がありません。メールをダブルクリックして表示すると、メールヘッダー表示ができるようになります。
+ ** Webに説明がないので説明します。メールをダブルクリックして表示すると、メールヘッダー表示ができるようになります。
 //image[iCloud][メールヘッダー表示][scale=1]{
 //}
 
