@@ -8,16 +8,15 @@
 == メールヘッダーの確認方法
 基本的にスマートフォン以外では簡単に見ることができます。メールを開いてメニューの詳細などに「メッセージソースの確認」や「メールヘッダーの確認」などで見ることができます。スマートフォンではAndroidの一部のアプリで可能ですが、無理なときはパソコンからWebメールか携帯電話会社提供のサイトで確認してください。
 
-//tsize[10,120]
 //table[tbl1][メールヘッダーの確認方法]{
 サイト名	URL
 -----------------
-Gmail	https://support.google.com/mail/answer/29436
-Outlook	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c/
-ヤフーメール	https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254
-NTTドコモ	https://mail.smt.docomo.ne.jp/help/help_read_header.html
-au	https://www.au.com/mobile/service/webmail/usage/spam/#anc03
-ソフトバンク	https://www.softbank.jp/support/faq/view/10356
+Gmail	ヘッダー全体からメールの経路を確認する@<fn>{Gmail}
+Outlook	Outlookでインターネットメッセージヘッダーを表示する@<fn>{Outlook}
+ヤフーメール	メールの送信者情報を詳しく表示する（詳細ヘッダー）@<fn>{yahoo}
+NTTドコモ	ヘッダ表示@<fn>{docomo}
+au	メールヘッダ情報を確認する@<fn>{au}
+ソフトバンク	［S!メール（MMS）］Eメールヘッダ情報は確認できますか？@<fn>{softbank}
 //}
 
  * iCloud
@@ -25,6 +24,12 @@ au	https://www.au.com/mobile/service/webmail/usage/spam/#anc03
 //image[iCloud][iCloudのメールヘッダー表示][scale=1]{
 //}
 
+//footnote[Gmail][https://support.google.com/mail/answer/29436]
+//footnote[Outlook][https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c]
+//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254]
+//footnote[docomo][https://mail.smt.docomo.ne.jp/help/help_read_header.html]
+//footnote[au][https://www.au.com/mobile/service/webmail/usage/spam/#anc03]
+//footnote[softbank][https://www.softbank.jp/support/faq/view/10356]
 
 == SPFレコードの確認
 Received-SPF:がSPFレコードになります。
