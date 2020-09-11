@@ -44,7 +44,7 @@ NTTドコモ：NTTドコモの携帯電話をご利用のお客様へ @<href>{ht
 au：auスマートフォンで受信された迷惑メールを転送される場合（「迷惑メール報告機能」対応のKDDI Eメールアプリご利用の場合） @<href>{https://www.au.com/support/service/mobile/trouble/mail/common/report/}@<br>{}
 ソフトバンク：迷惑メールを申告する @<href>{https://www.softbank.jp/mobile/support/mail/antispam/howto/report/}
 
-最後に@<b>{迷惑メール相談センターに報告する}ことを忘れずにしてください。国内において配信している広告宣伝メールであれば確実に止めることができます。
+そして@<b>{迷惑メール相談センターに報告する}ことを忘れずにしてください。国内において配信している広告宣伝メールであれば確実に止めることができます。
 
 情報提供のお願い | 迷惑メール相談センター @<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}
 
