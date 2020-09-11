@@ -27,17 +27,24 @@ Spamhausは迷惑メールを配信しているIPアドレスをデータベー�
  * Gmail、Outlook、ヤフーメール、NTTドコモ、auでは下に記載したURL参照してWebメール上で迷惑メールを報告します。
  * iCloudでは迷惑メールを下に記載したURLに記載しているメールアドレスに転送してください。
 
-//tsize[10,120]
 //table[houkoku][迷惑メール報告方法]{
 サイト名	URL
 -----------------
-Gmail	https://support.google.com/mail/answer/1366858
-iCloud	https://support.apple.com/ja-jp/HT204759
-Outlook	https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft
-ヤフーメール	https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007405
-NTTドコモ	https://www.nttdocomo.co.jp/service/omakase_block/offer_information/index.html
-au	https://www.au.com/support/service/mobile/trouble/mail/common/report/#au_mailApp
+Gmail	迷惑メールのマーク付けとマークの解除@<fn>{gmail}
+iCloud	フィッシングメールや偽のサポート電話などの詐欺を見抜き、被害に遭わないようにする@<fn>{icloud}
+Outlook	メッセージとファイルを Microsoft に報告する@<fn>{outlook}
+ヤフーメール	迷惑メール報告機能とは@<fn>{yahoo}
+NTTドコモ	情報提供のお願い@<fn>{docomo}
+au	auスマートフォンで受信された迷惑メールを転送される場合@<fn>{au}
 //}
+
+
+//footnote[gmail][https://support.google.com/mail/answer/1366858]
+//footnote[icloud][https://support.apple.com/ja-jp/HT204759]
+//footnote[outlook][https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft]
+//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007405]
+//footnote[docomo][https://www.nttdocomo.co.jp/service/omakase_block/offer_information/index.html]
+//footnote[au][https://www.au.com/support/service/mobile/trouble/mail/common/report/#au_mailApp]
 
 次に対応したいことは、送信元のメールアドレスが携帯電話会社ならば、携帯電話会社に迷惑メールを報告することで迷惑メールを止めることができます。これは非常に効果があるので実践してください。
 
@@ -46,19 +53,23 @@ au	https://www.au.com/support/service/mobile/trouble/mail/common/report/#au_mail
 
 @<b>{他社でも遠慮なく迷惑メール報告メールアドレスに転送しましょう。}
 
-//tsize[10,120]
 //table[houkoku2][迷惑メール転送方法]{
-サイト名	URL
+サイト名	サイト説明
 -----------------
-NTTドコモ	https://www.nttdocomo.co.jp/info/spam_mail/if/mobile/index.html
-au	https://www.au.com/support/service/mobile/trouble/mail/common/report/
-ソフトバンク	https://www.softbank.jp/mobile/support/mail/antispam/howto/report/
+NTTドコモ	ドコモの携帯電話をご利用のお客様へ@<fn>{docomo2}
+au	迷惑メールご申告方法@<fn>{au2}
+ソフトバンク	迷惑メールを申告する@<fn>{softbank2}
 //}
+
 
 そして@<b>{迷惑メール相談センターに報告する}ことを忘れずにしてください。国内において配信している広告宣伝メールであれば確実に止めることができます。
 
 @<b>{迷惑メール相談センターにメール転送をするとき個人情報の入力は不要です。}
 
 
-情報提供のお願い | 迷惑メール相談センター @<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}
+情報提供のお願い | 迷惑メール相談センター@<br>{}
+@<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}
 
+//footnote[docomo2][https://www.nttdocomo.co.jp/info/spam_mail/if/mobile/index.html]
+//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/common/report/]
+//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/howto/report/]
