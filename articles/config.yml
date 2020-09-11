@@ -47,7 +47,7 @@ aut: [{name: "ブライトシステム編", file-as: "ブライトシステム�
 # a-csl, csl: 監修者
 # a-dsr, dsr: デザイナ
 # a-edt, edt: 編集者
-edt: ["@sapi_kawahara"]
+edt: ["さっぴー川原 @sapi_kawahara"]
 # a-ill, ill: イラストレータ
 # a-lyr, lyr: 歌詞作成者
 # a-mdc, mdc: メタデータセットの一次的責任者
@@ -58,7 +58,7 @@ edt: ["@sapi_kawahara"]
 # a-pbl, pbl: 出版社（発行所）
 # pbl: TechBooster
 # a-prt, prt: 印刷所
-prt: 印刷所
+# prt: 印刷所
 # prt: TechBooster
 # a-red, red: 項目の枠組起草者
 # a-rev, rev: 評論者
@@ -70,12 +70,12 @@ prt: 印刷所
 # contact: 連絡先
 
 # 刊行日(省略した場合は実行時の日付)
-date: 2020-9-20
+date: 2020-9-12
 # 発行年月。YYYY-MM-DD形式による配列指定。省略した場合はdateを使用する
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2020-9-22 技術書典8版 v1.0.0"]]
+history: [["2020-9-12 技術書典9版 v1.0.0"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016 Re:VIEW Developers
 rights: (C) 2020 ブライトシステム
