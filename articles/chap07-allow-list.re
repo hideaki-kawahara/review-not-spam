@@ -42,26 +42,24 @@ Black Lives Matter（ブラック・ライブズ・マター）@<href>{https://w
 ------------------------------------
 Gamil	-	不明
 iCloud@<fn>{iCloud}	-	-
-Outlook	1024	500
-ヤフーメール	-	500
-NTTドコモ	120	メールアドレス120/ドメイン200
-au	200	200
-au（アドレス帳）	1000	-
-UQモバイル	220	200
-ソフトバンク	300	300
-ワイモバイル	許可／拒否併用300
+Outlook@<fn>{Outlook}	1024	500
+ヤフーメール@<fn>{yahoo}	-	500
+NTTドコモ@<fn>{docomo}	120	メールアドレス120/ドメイン200
+au@<fn>{au1}@<fn>{au2}	200	200
+au（アドレス帳）@<fn>{au3}	1000	-
+UQモバイル@<fn>{uq}	220	200
+ソフトバンク@<fn>{softbank1}	300	300
+ワイモバイル@<fn>{softbank2}	許可／拒否併用300
 //}
 
-//footnote[iCloud][iCloud.comの「メール」でフィルタリングルールを設定する https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud]
-
- * iCloud：
- * Outlook：迷惑メール フィルターの概要 @<href>{https://support.microsoft.com/ja-jp/office/%E8%BF%B7%E6%83%91%E3%83%A1%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%AE%E6%A6%82%E8%A6%81-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089}
- * ヤフーメール：受信拒否とは @<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007401}
- * NTTドコモ：受信リスト／拒否リスト設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/}
- * au：受信リスト設定 @<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/domain/}
- * au：拒否リスト設定 @<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/block/}
- * au：アドレス帳受信設定 @<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/friendmail/}
- * UQモバイル：@<href>{https://www.uqwimax.jp/mobile/support/guide/mail/}
- * ソフトバンク：受信許可リスト設定 @<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/white/}
- * ソフトバンク：受信拒否リスト設定 @<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/black-only/}
- * ワイモバイル：迷惑メール防止機能 @<href>{https://www.ymobile.jp/service/others/spam/}
+//footnote[iCloud][https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud]
+//footnote[Outlook][https://support.microsoft.com/ja-jp/office/5ae3ea8e-cf41-4fa0-b02a-3b96e21de089]
+//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007401]
+//footnote[docomo][https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/]
+//footnote[au1][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/domain/]
+//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/block/]
+//footnote[au3][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/friendmail/]
+//footnote[uq][https://www.uqwimax.jp/mobile/support/guide/mail/]
+//footnote[softbank1][https://www.softbank.jp/mobile/support/mail/antispam/email-i/white/]
+//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/email-i/black-only/]
+//footnote[ymobile][https://www.ymobile.jp/service/others/spam/]
