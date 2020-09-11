@@ -22,19 +22,54 @@ au	https://www.au.com/mobile/service/webmail/usage/spam/#anc03
 
  * iCloud
  ** Webに説明がないので説明を記載、メールをダブルクリックして表示すると、メールヘッダー表示ができるようになります。
-//image[iCloud][メールヘッダー表示][scale=1]{
+//image[iCloud][iCloudのメールヘッダー表示][scale=1]{
 //}
 
 
 == SPFレコードの確認
 Received-SPF:がSPFレコードになります。
 
+
+Sender Policy Frameworkと呼ばれるものです。あらかじめ送信元ドメインからメールを送信して良いIPアドレスを記載し、そして受信するメールサーバーではメールの送信元IPアドレスと、SPFレコードのIPアドレスを照合して一致しなかったら送信元の詐称が行われたとして受信拒否が可能となります。
+
+受信メールサーバーは、SPFレコードとAuthentication Resultレコードに認証結果を記載します。結果がPassになっていれば迷惑メールではないです。
+
+//table[spf][SPFレコードの結果]{
+結果	意味
+-----------------
+Pass	認証処理に成功した
+Fail	認証処理に失敗した
+SoftFail	~の条件にマッチした（弱い認証処理に失敗）
+Neutral	?の条件にマッチした（ほとんど使われない）
+//}
+
 == DKIMレコードの確認
 DKIM-Signature:がDKIMレコードになります。
 
-== Authentication Resultレコードの確認
-Authentication-Results:がAuthentication Resultレコードになります。
+DomainKeys Identified Mailと呼ばれるもので、あらかじめ送信元ドメインに公開鍵を記載し、そして送信側は送信メールに秘密鍵を使用し署名を付与し、受信するメールサバーでは送信元ドメインに公開鍵を取得して受信したメールの署名を検証して一致しなかったら送信元の詐称が行われたとして受信拒否が可能となります。
 
-== X-Mailerの確認
-X-Mailer:に送信したメールソフトなどが記載されます。
+受信メールサーバーは、Authentication Resultレコードに認証結果を記載します。結果がPassになっていれば迷惑メールではないです。
+
+
+== Authentication Resultレコードの確認
+Authentication-Results:がAuthentication Resultレコードで、SPF認証、DKIM認証、DMARC認証の結果が記載されます。
+
+//table[dkim][DKIMレコードの結果]{
+結果	意味
+-----------------
+Pass	メールは署名されて認証処理に成功した
+hardfail	メールは署名されたが認証処理が失敗した
+policy	 メールは署名されたがポリシーによって受け入れない
+//}
+
+DMARC認証はDomain-based Message Authentication、Reporting and Conformanceと呼ばれもので、SPF認証やDKIM認証が失敗したときの受信するかどうかはメール受信側に委ねられていました。ドメインを詐称された側はDMARCレコードに設定したDMARCポリシーとして宣言することでメール受信側に受信ルールを依頼できます。
+
+
+//table[dmarc][DMARCレコードの結果]{
+結果	意味
+-----------------
+pass	SPF認証とDKIM認証は通過したので通す
+quarantine	認証エラーなのでメールサーバーで隔離する
+reject	 認証エラーなので受信拒否する
+//}
 
