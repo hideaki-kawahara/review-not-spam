@@ -45,15 +45,15 @@ IBM 7094は、アメリカ航空宇宙局（National Aeronautics and Space Admin
 
 この出来事はパソコン通信の可能性を示すとともに、パソコン通信の未来を示すターニングポイントとなりました。
 
-//footnote[CompuServe][パソコン通信の老舗CompuServe Classicがサービス終了 @<href>{https://www.itmedia.co.jp/news/articles/0907/07/news074.html}]
+//footnote[CompuServe][https://www.itmedia.co.jp/news/articles/0907/07/news074.html]
 
-//footnote[NTT][経営ビジョン中期経営戦略と事業展開の6ページ @<href>{https://www.ntt.co.jp/about/pdf/10years_02.pdf}]
+//footnote[NTT][6ページ https://www.ntt.co.jp/about/pdf/10years_02.pdf]
 
 
 //footnote[WIDE][「WIDEプロジェクト」（Widely Integrated Distributed Environment）1988年に発足した、企業、大学、公的機関のメンバーが参加する共同の研究グループ]
 
 
-//footnote[JUNNET][日本のインターネットの幕開けと進化 @<href>{https://www.nippon.com/ja/features/c01905/}]
+//footnote[JUNNET][https://www.nippon.com/ja/features/c01905/]
 
 == Windows95の登場
 
@@ -70,10 +70,10 @@ IBM 7094は、アメリカ航空宇宙局（National Aeronautics and Space Admin
 
 //footnote[ダイヤルQ2][0990からはじまる局番を使用した電話回線による情報料代理徴収サービス、のちに高額な利用や成人向け情報サービスが社会問題となり2014年2月28日でサービスが終了した。]
 
-//footnote[interQ][ダイヤルQ2を使ったインスタントプロバイダー interQサービス開始のお知らせ @<href>{https://www.gmo.jp/news/article/1/}]
+//footnote[interQ][https://www.gmo.jp/news/article/1/]
 
 
-//footnote[my-mail][新サービス「interQ my-mail」あす始動。ホームページ上で好みのメールアカウントを無料発行 @<href>{https://www.gmo.jp/news/article/3/}]
+//footnote[my-mail][https://www.gmo.jp/news/article/3/]
 
 
 == 携帯電話での色々なサービスが登場
@@ -103,9 +103,9 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 
 //footnote[DDIポケット][設立当初はDDIポケットという社名でしたが、ウィルコムという名前に社名変更、イーアクセスと合併しヤフーが買収しワイモバイルと社名変更、最終的にはソフトバンクに吸収合併しました。現在もワイモバイル時代に作った「Y!Mobile」というブランドは残っている。]
 
-//footnote[SMSのキャリア相互接続][SMSのキャリア相互接続、7月13日に開始@<href>{https://www.itmedia.co.jp/mobile/articles/1106/01/news086.html}]
+//footnote[SMSのキャリア相互接続][https://www.itmedia.co.jp/mobile/articles/1106/01/news086.html]
 
-//footnote[PHS回線向け][PHS回線向けにSMSサービスおよび着信お知らせ機能の提供を開始@<href>{https://www.softbank.jp/corp/group/ym/news/info/2014/20140925_01/}]
+//footnote[PHS回線向け][https://www.softbank.jp/corp/group/ym/news/info/2014/20140925_01/]
 
 === メッセージサービスのメール機能
 
@@ -130,13 +130,13 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 
 //footnote[ポータルサイト][ポータルサイトはインターネットに接続したときの入口として機能するもので、検索をはじめとする利用者が使いやすいサイトとして、提供側はユーザーの囲い込みとして存在している。]
 
-//footnote[livedoorメール][NHN Japanは3月26日、Webメールサービス「livedoorメール」など、livedoorブランドで提供してきた9サービスを終了すると発表した。@<href>{https://www.itmedia.co.jp/news/articles/1303/26/news050.html}]
+//footnote[livedoorメール][https://www.itmedia.co.jp/news/articles/1303/26/news050.html]
 
-//footnote[gooメール][gooメール（無料版）提供終了のお知らせ（2014年3月10日）@<href>{https://mail.goo.ne.jp/info/notice008.html}]
+//footnote[gooメール][https://mail.goo.ne.jp/info/notice008.html]
 
-//footnote[Infoseekメール][2014年7月31日をもって『楽天』はInfoseekメールの運営を終了しました。@<href>{https://special.infoseek.co.jp/mail/mail_information/announcement_is_close2.html}]
+//footnote[Infoseekメール][https://special.infoseek.co.jp/mail/mail_information/announcement_is_close2.html]
 
-//footnote[エキサイトメール][この度『エキサイトメール』は、2018年9月18日（火）15時をもちましてサービスの提供を終了させていただくこととなりました@<href>{https://blog.excite.co.jp/exfreemail/27266782/}]
+//footnote[エキサイトメール][https://blog.excite.co.jp/exfreemail/27266782/]
 
 
 
@@ -144,27 +144,26 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 西暦	登場したもの
 ------------------------------------
 1965年ごろ	メール誕生
-1969年10月29日	ARPANET誕生
+1969年10月29日	ARPANET誕生（インターネットの原型）
 1971年ごろ	@付きメール誕生
-1985年4月1日	電気通信事業法施行
-1985年5月	アスキーネット開始
-1989年ごろ	PSINet開始
+1985年4月1日	電気通信事業法施行（通信自由化開始）
+1985年5月	パソコン通信 アスキーネット開始
+1989年ごろ	商用インターネットサービス PSINet開始
 1992年ごろ	大手パソコン通信会社とインターネット間のメール送受信開始
 1994年ごろ	大手プロバイダーが商用インターネットサービスを開始
 1995年9月18日	Netscape Navigator 2.0（Netscape Mail）リリース
 1995年11月23日	Windows95（Microsoft Internet Mail and News）リリース
-1995年12月	interQ開始
-1996年4月	たのしメール開始
-1996年7月	Hotmail開始
-1996年11月20日	Pメール開始
+1995年12月	ダイヤルQ2プロバイダーinterQ開始
+1996年4月	携帯電話メッセージサービス たのしメール開始
+1996年7月	Webメール Hotmail開始
+1996年11月20日	PHSメッセージサービス Pメール開始
 1996年11月21日	interQ my-mail開始
-1997年6月1日	ショートメール開始
 1997年5月1日	10円メール開始
 1997年10月1日	Internet Explorer 4.0（Outlook Express 4）リリース
-1998年6月1日	ショートメール開始
-1999年1月	ヤフーメール開始
+1998年6月1日	携帯電話SMSサービス ショートメール開始
+1999年1月	Webメール ヤフーメール開始
 1999年2月22日	iモード開始（iモードメール）
-2004年4月1日	Gamil開始
+2004年4月1日	Webメール Gamil開始
 //}
 
 

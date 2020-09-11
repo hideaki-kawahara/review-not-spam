@@ -20,19 +20,40 @@
 
 今の時代、使用しているメールアドレスが、@<b>{契約しているメールサーバー以外から送信することはないので、なりすまし規制の設定}にすることをオススメします。
 
-NTTドコモ：かんたん設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/easy_setup/}@<br>{}
-au：なりすまし規制 @<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/forgery/}@<br>{}
-ソフトバンク、ワイモバイル：なりすましメール拒否設定 @<href>{https://www.softbank.jp/mobile/support/mail/antispam/mms/antispoof/}@<br>{}
-UQモバイル：メールサービス @<href>{https://www.uqwimax.jp/mobile/support/guide/mail/}@<br>{}
+
+
+//table[narisumashi][なりすまし規制]{
+サービス	サイト説明
+------------------------------------
+NTTドコモ	かんたん設定@<fn>{docomo}
+au	なりすまし規制@<fn>{au}
+UQモバイル	メールサービス@<fn>{uq}
+ソフトバンク	なりすましメール拒否設定@<fn>{softbank}
+//}
+
+//footnote[docomo][https://www.nttdocomo.co.jp/info/spam_mail/easy_setup/]
+//footnote[au][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/forgery/]
+//footnote[uq][https://www.uqwimax.jp/mobile/support/guide/mail/]
+//footnote[softbank][https://www.softbank.jp/mobile/support/mail/antispam/mms/antispoof/]
+
 
 === 携帯/PHS以外のメール拒否設定（全携帯電話会社対応）
 迷惑メールの多くは、パソコンから送信されています。そのため手っ取り早く迷惑メールを受信したくないと思ったら、@<hd>{nari}と合わせて携帯/PHS以外のメール拒否設定をすることをオススメします。
 
 @<b>{この2つの設定だけで迷惑メールはかなり減ります。}
 
-NTTドコモ：携帯・PHS／パソコンなどのメール設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/spmode/mail_setup/index.html}@<br>{}
-au：事業者毎に受信を設定 @<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/mailsetting/}@<br>{}
-ソフトバンク：ケータイ・PHSからのメールのみ許可 @<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/handset-phs/}@<br>{}
+//table[keitai][携帯/PHS以外のメール拒否]{
+サービス	サイト説明
+------------------------------------
+NTTドコモ	携帯・PHS／パソコンなどのメール設定@<fn>{docomo2}
+au	事業者毎に受信を設定@<fn>{au2}
+ソフトバンク	ケータイ・PHSからのメールのみ許可@<fn>{softbank2}
+//}
+
+//footnote[docomo2][https://www.nttdocomo.co.jp/info/spam_mail/spmode/mail_setup/index.html]
+//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/mailsetting/]
+//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/email-i/handset-phs/]
+
 
 ==={HTML} HTMLメール規制
 auにだけある機能です。
@@ -43,6 +64,10 @@ HTMLメールは画像付きのメールみたいなものです。文字情報�
 
 なお、HTMLメールが良く行う0×0画像によるWebビーコンは、スマートフォンのメールソフトやWebメールでは機能しません。またCookieを無効にしているので、メール受信者の存在確認以上の情報搾取はできません。
 
+
+URLリンク／HTMLメール規制@<br>{}
+https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/
+
 === URL規制
 @<b>{携帯電話会社で、少々機能が異なります。}
 
@@ -50,6 +75,20 @@ auやソフトバンクでは「URLリンク規制」でメールにURLが含ま
 NTTドコモでは「特定URL付メール拒否設定」でメールに「出会い系」「アダルト系」「違法行為を指南しているサイト」へのURLが含まれていたら受信しない機能です。これはネットスター株式会社が行っているフィルタリングになり精度は高いのですが、最新情報には若干のタイムラグがあります。
 
 これらの設定は@<b>{「子供」と「シルバー世代」にするのが良い}です。大人はURLのやり取りをするかどうかを考えて、URLのやり取りをしないのなら設定してください。
+
+//table[url][URL規制]{
+サービス	サイト説明
+------------------------------------
+NTTドコモ	特定URL付メール拒否設定@<fn>{docomo3}
+au	URLリンク／HTMLメール規制@<fn>{au3}
+ソフトバンク	URLリンク付き メール拒否設定@<fn>{softbank3}
+//}
+
+//footnote[docomo3][https://www.nttdocomo.co.jp/info/spam_mail/url/]
+//footnote[au3][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/]
+//footnote[softbank3][https://www.softbank.jp/mobile/support/mail/antispam/mms/antiurl/]
+
+
 
 
 === ウイルスメール規制
@@ -61,14 +100,25 @@ NTTドコモでは「詐欺／ウイルスメール拒否設定」で受信す�
 
 ウイルスメールは減る傾向がありますが、これらの設定は@<b>{設定するのが良い}です。
 
-詐欺／ウイルスメール拒否設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/rejection_setup/}
+
+//table[virus][ウイルスメール規制]{
+サービス	サイト説明
+------------------------------------
+NTTドコモ	詐欺／ウイルスメール拒否設定@<fn>{docomo4}
+au	ウイルスメール規制@<fn>{au4}
+ソフトバンク	なし
+//}
+
+//footnote[docomo4][https://www.nttdocomo.co.jp/info/spam_mail/rejection_setup/]
+//footnote[au4][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/virus_mail/]
 
 === 大量送信者からのメール拒否設定
 @<b>{設定しておいてください。}
 
 NTTドコモからNTTドコモに1日500通以上送信されたらメールを拒否する設定です。ときどきバイトと称して携帯電話に契約させて迷惑メールを送信する方が居るので、この設定は有効にしておいてください。@<b>{短文迷惑メールにも効果があるのでNTTドコモの方は必須の設定}です。
 
-大量送信者からのメール拒否設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/mail_limit/}
+大量送信者からのメール拒否設定@<br>{}
+https://www.nttdocomo.co.jp/info/spam_mail/mail_limit/
 
 === シークレットコード登録
 NTTドコモだけにある機能です。この迷惑メールフィルターを使用している人は居ないとは思いますが、機能としてあるので紹介しておきます。NTTドコモの携帯電話でiモード契約をしていると「電話番号@docomo.ne.jp」が設定できますが（スマートフォン契約では電話番号をメールアドレスに設定はできません）、このメールのときだけ特別なルールが設定できます。
@@ -77,7 +127,7 @@ NTTドコモだけにある機能です。この迷惑メールフィルター�
 
 
 NTTドコモ：シークレットコード登録@<br>{}
-@<href>{https://www.nttdocomo.co.jp/info/spam_mail/secret_code/}
+https://www.nttdocomo.co.jp/info/spam_mail/secret_code/
 
 
 == 間違ってフィルタリングされたら？
@@ -92,7 +142,6 @@ NTTドコモ：シークレットコード登録@<br>{}
 //table[docomo][NTTドコモの設定例]{
 設定名	設定内容
 -------------------------------------------------------------
-NTTドコモ
 かんたん設定	パソコンから受信しないなら「受信拒否強」
 特定URL付メール拒否設定	設定する
 詐欺／ウイルスメール拒否設定	設定する

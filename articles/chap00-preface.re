@@ -20,6 +20,10 @@
 CC	Carbon Copyまたは写し受信者（JISX0032表記）
 BCC	Blind Carbon Copyまたは秘密受信者（JISX0032表記）
 業者	受信者が許諾していないメールを送信する者または企業
+Gmail	Googleが運営しているWebメール
+iCloud	Appleが運営しているWebメール
+Outlook	Microsoftが運営しているWebメール
+au	KDDIが運営している携帯電話ブランド
 ---------------------------------------------
 //}
 

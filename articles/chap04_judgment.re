@@ -26,9 +26,9 @@
 
 これらのスマートフォンの動作仕様に関して簡単に確認できます。次にiPhoneで「自分のカード」を「ほげ山ホゲ次郎」に設定したときのiPhone標準メールアプリで表示します。Androidでも「端末情報」を変更するだけで確認できます。
 
-#@# //embed[latex]{
-#@# \clearpage
-#@# //}
+//embed[latex]{
+\clearpage
+//}
 
 iPhoneで「自分のカード」を「ほげ山ホゲ次郎」に設定します。
 //image[hoge1][iPhoneで「自分のカード」を「ほげ山ホゲ次郎」に設定][scale=0.5]{
@@ -97,7 +97,6 @@ undisclosed-recipients:;と表示されるメールの送信先を設定せず�
 短縮URLは長いURLを短くして文字数削減に使用するサービスです。本来のURLを隠すために使用しているため悪用目的がほとんどで、フィッシング詐欺やアフィリエイトURL隠蔽に使用されています。アフィリエイトURL隠蔽の目的で使用された短縮URLをクリックしても、メールアドレスの有効確認が行われることはないで大きな被害はないですが、@<b>{普段から短縮URLを不審なURLである認識をすることで危機意識を高めることをオススメします。}
 
 下ににクリックに注意した方が良い短縮URLを列挙します。
-
 //table[shortURL][クリック注意短縮URL]{
 短縮URL
 ------------------------------------
@@ -133,6 +132,7 @@ r10.to
 @<b>{これは銀行側のメールサーバーが暗号化されていないだけで、直ちに危険な状態ではないので安心してください。}ただ、筆者としては不安要素はできるだけ排除してほしいと考えるので、銀行やクレジットカードや携帯電話会社は利用者が安心できるメール配信を心がけて欲しいです。
 
 メール配信に関しては当サークルの書籍をオススメします。@<br>{}
+
 迷惑メールにされないメール設定方法G Suite編@<br>{}
 @<href>{https://booth.pm/ja/items/1475698}
 
@@ -152,7 +152,7 @@ Gmailの例を掲載します。「すべての設定を表示」から「メッ
 //image[gmail2][ 下記の画像を表示][scale=0.8]{
 //}
 
-//footnote[Cookie][送信者が画像を利用して、受信者のブラウザのCookieを設定や読み取ったりすることはできません。 @<href>{https://support.google.com/mail/answer/145919?co=GENIE.Platform%3DDesktop&hl=ja}]
+//footnote[Cookie][https://support.google.com/mail/answer/145919?co=GENIE.Platform%3DDesktop&hl=ja]
 
 
 == ストーリーメール
@@ -198,8 +198,8 @@ Gmailの例を掲載します。「すべての設定を表示」から「メッ
 
 また、そのようなメールを携帯電話会社では迷惑メールフィルターとして提供しておりましたが、NTTドコモでは2014年4月8日に廃止@<fn>{mishoudaku}されました。
 
-//footnote[tokutei][特定電子メールの送信の適正化等に関する法律 @<href>{https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email}]
+//footnote[tokutei][https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email]
 
-//footnote[dekyo][1-2特定電子メール法 @<href>{https://www.dekyo.or.jp/soudan/contents/taisaku/1-2.html}]
+//footnote[dekyo][https://www.dekyo.or.jp/soudan/contents/taisaku/1-2.html]
 
-//footnote[mishoudaku][迷惑メール対策設定の一部機能（「未承諾広告※メール拒否」設定）の終了について @<href>{https://www.nttdocomo.co.jp/info/notice/page/131219_00.html}]
+//footnote[mishoudaku][https://www.nttdocomo.co.jp/info/notice/page/131219_00.html]

@@ -18,18 +18,18 @@
 
 物凄く効果がありますが、上級者向けの方法です。
 
-Spamhausは迷惑メールを配信しているIPアドレスをデータベースとして記録しているサイトで、迷惑メールフィルターはSpamhausのデータを参照しているので確実に迷惑メールが止まります。ただ、登録にはドメインの所有が確認できるような設定とabuseが必要なので一般の人には無理です。
+Spamhausは迷惑メールを配信しているIPアドレスをデータベースとして記録しているサイトで、迷惑メールフィルターはSpamhausのデータを参照しているので確実に迷惑メールが止まります。ただ、登録にはドメインの所有が確認できるような設定とabuseが必要なので一般の人が行うのは難しいです。
 
 
 == 一般的な対応
 しかし、迷惑メールを止めたい気持ちはわかるので、@<b>{迷惑メールの報告をすると迷惑メールのフィルター精度があがります。}迷惑メールのフィルターが良くなれば少しづつですが、迷惑メールが届かなくなります。
 
- * Gmail、Outlook、ヤフーメール、NTTドコモ、auでは下に記載したURL参照してWebメール上で迷惑メールを報告します。
- * iCloudでは迷惑メールを下に記載したURLに記載しているメールアドレスに転送してください。
+ * Gmail、Outlook、ヤフーメール、NTTドコモ、auでは下に記載した表から参照してWebメール上で迷惑メールを報告します。
+ * iCloudでは下に記載した表から参照してメール転送をします。
 
 //tsize[20,60]
-//table[houkoku][迷惑メール報告方法]{
-サイト名	URL
+//table[houkoku][迷惑メールフィルター登録方法]{
+サービス	サイト説明
 -----------------
 Gmail	迷惑メールのマーク付けとマークの解除@<fn>{gmail}
 iCloud	フィッシングメールや偽のサポート電話などの詐欺を見抜き、被害に遭わないようにする@<fn>{icloud}
@@ -55,7 +55,7 @@ au	auスマートフォンで受信された迷惑メールを転送される場
 @<b>{他社でも遠慮なく迷惑メール報告メールアドレスに転送しましょう。}
 
 //table[houkoku2][迷惑メール転送方法]{
-サイト名	サイト説明
+サービス	サイト説明
 -----------------
 NTTドコモ	ドコモの携帯電話をご利用のお客様へ@<fn>{docomo2}
 au	迷惑メールご申告方法@<fn>{au2}
@@ -69,7 +69,7 @@ au	迷惑メールご申告方法@<fn>{au2}
 
 
 情報提供のお願い | 迷惑メール相談センター@<br>{}
-@<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}
+https://www.dekyo.or.jp/soudan/contents/ihan/index.html
 
 //footnote[docomo2][https://www.nttdocomo.co.jp/info/spam_mail/if/mobile/index.html]
 //footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/common/report/]
