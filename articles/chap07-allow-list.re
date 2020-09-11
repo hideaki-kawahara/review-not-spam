@@ -41,7 +41,7 @@ Black Lives Matter（ブラック・ライブズ・マター）@<href>{https://w
 サービス	受信許可	受信拒否
 ------------------------------------
 Gamil	-	不明
-iCloud	-	-
+iCloud@<fn>{iCloud}	-	-
 Outlook	1024	500
 ヤフーメール	-	500
 NTTドコモ	120	メールアドレス120/ドメイン200
@@ -52,7 +52,9 @@ UQモバイル	220	200
 ワイモバイル	許可／拒否併用300
 //}
 
- * iCloud：iCloud.comの「メール」でフィルタリングルールを設定する @<href>{https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud}
+//footnote[iCloud][iCloud.comの「メール」でフィルタリングルールを設定する https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud]
+
+ * iCloud：
  * Outlook：迷惑メール フィルターの概要 @<href>{https://support.microsoft.com/ja-jp/office/%E8%BF%B7%E6%83%91%E3%83%A1%E3%83%BC%E3%83%AB-%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%81%AE%E6%A6%82%E8%A6%81-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089}
  * ヤフーメール：受信拒否とは @<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007401}
  * NTTドコモ：受信リスト／拒否リスト設定 @<href>{https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/}

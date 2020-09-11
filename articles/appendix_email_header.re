@@ -12,7 +12,7 @@
 //table[tbl1][メールヘッダーの確認方法]{
 サイト名	URL
 -----------------
-Gmail	https://support.google.com/mail/answer/29436?hl=ja
+Gmail	https://support.google.com/mail/answer/29436
 Outlook	https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c/
 ヤフーメール	https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254
 NTTドコモ	https://mail.smt.docomo.ne.jp/help/help_read_header.html
