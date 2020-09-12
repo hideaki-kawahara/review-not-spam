@@ -27,9 +27,9 @@ au	メールアドレス変更方法@<fn>{au}
 ソフトバンク	メール（@softbank.ne.jp）のメールアドレスを変更する手順@<fn>{softbank}
 //}
 
-//footnote[docomo][https://www.nttdocomo.co.jp/service/spmode/function/mail/usage/set_up/change/]
-//footnote[au][https://www.au.com/support/service/mobile/trouble/mail/email/change/]
-//footnote[softbank][https://www.softbank.jp/mobile/support/mail/setting/smartphone/mms-changeaddress/]
+//footnote[docomo][@<href>{https://www.nttdocomo.co.jp/service/spmode/function/mail/usage/set_up/change/}]
+//footnote[au][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/change/}]
+//footnote[softbank][@<href>{https://www.softbank.jp/mobile/support/mail/setting/smartphone/mms-changeaddress/}]
 
 
 Microsoftアカウントは変更できませんが、メールアドレスに別名を追加する@<b>{エイリアスの追加}という機能でメールアドレスを追加することが可能です。これにより擬似的にメールアドレスの変更は可能です。元のメールアドレスは残っているので対象のメールアドレスを削除しない限り迷惑メールは着信し続けます。@<br>{}
@@ -64,12 +64,12 @@ saitama9876	地名＋電話番号下4桁
 メールアドレスの長さについてですが、8文字以下はオススメしていません。今の時代は8文字程度なら計算の総当りですべてのメールアドレスを生成することが可能だからです。メールアドレスは長ければ長いほど突き止められにくいですが、使い勝手を考慮すると16文字ぐらいが良いです。また、メールアドレスを長くしても（最大長64文字）使用している単語が@<table>{easy_email}の使いまわしだと意味がないです。
 
 なお、メールアドレスの最大長64文字と書きましたが、ほとんどのサービスで最大長は30文字に制限されています。ヤフーメールではメールアドレスの最大長は32文字@<fn>{yahoo}です。
-//footnote[yahoo][https://www.yahoo-help.jp/app/answers/detail/a_id/47376/p/6624]
+//footnote[yahoo][@<href>{https://www.yahoo-help.jp/app/answers/detail/a_id/47376/p/6624}]
 
 一番オススメなメールアドレスはランダムに作ることです。
 LastPassサイトのユーザー名ジェネレータツール@<fn>{lastpass}で、ユーザー名の長さを16文字にして、読みやすいを選択し、使用文字を「大文字」「小文字」「数字」するのがベストなメールアドレスになります。
 
-//footnote[lastpass][https://www.lastpass.com/ja/username-generator]
+//footnote[lastpass][@<href>{https://www.lastpass.com/ja/username-generator}]
 
 //image[lastpass][ランダムなメールアドレスを作成する例][scale=0.6]{
 //}

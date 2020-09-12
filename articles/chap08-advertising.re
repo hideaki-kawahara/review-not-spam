@@ -37,10 +37,10 @@
 メールアドレスをホームページに公開するときは「このメールアドレスへの特定電子メールの送信を拒否します」と表記すると事前承諾が必要になります。
 
 
-//footnote[tokutei][特定電子メールの送信の適正化等に関する法律 @<href>{https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email}]
+//footnote[tokutei][@<href>{https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email}]
 
 
-//footnote[meiwaku][情報提供のお願い | 迷惑メール相談センター @<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}]
+//footnote[meiwaku][@<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}]
 
-//footnote[sikkou][迷惑メール対策過去の措置命令 @<href>{https://www.soumu.go.jp/main_sosiki/joho_tsusin/d_syohi/m_mail-news.html}]
+//footnote[sikkou][@<href>{https://www.soumu.go.jp/main_sosiki/joho_tsusin/d_syohi/m_mail-news.html}]
 

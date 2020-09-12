@@ -45,15 +45,15 @@ IBM 7094は、アメリカ航空宇宙局（National Aeronautics and Space Admin
 
 この出来事はパソコン通信の可能性を示すとともに、パソコン通信の未来を示すターニングポイントとなりました。
 
-//footnote[CompuServe][https://www.itmedia.co.jp/news/articles/0907/07/news074.html]
+//footnote[CompuServe][@<href>{https://www.itmedia.co.jp/news/articles/0907/07/news074.html}]
 
-//footnote[NTT][6ページ https://www.ntt.co.jp/about/pdf/10years_02.pdf]
+//footnote[NTT][6ページ @<href>{https://www.ntt.co.jp/about/pdf/10years_02.pdf}]
 
 
 //footnote[WIDE][「WIDEプロジェクト」（Widely Integrated Distributed Environment）1988年に発足した、企業、大学、公的機関のメンバーが参加する共同の研究グループ]
 
 
-//footnote[JUNNET][https://www.nippon.com/ja/features/c01905/]
+//footnote[JUNNET][@<href>{https://www.nippon.com/ja/features/c01905/}]
 
 == Windows95の登場
 
@@ -70,10 +70,10 @@ IBM 7094は、アメリカ航空宇宙局（National Aeronautics and Space Admin
 
 //footnote[ダイヤルQ2][0990からはじまる局番を使用した電話回線による情報料代理徴収サービス、のちに高額な利用や成人向け情報サービスが社会問題となり2014年2月28日でサービスが終了した。]
 
-//footnote[interQ][https://www.gmo.jp/news/article/1/]
+//footnote[interQ][@<href>{https://www.gmo.jp/news/article/1/}]
 
 
-//footnote[my-mail][https://www.gmo.jp/news/article/3/]
+//footnote[my-mail][@<href>{https://www.gmo.jp/news/article/3/}]
 
 
 == 携帯電話での色々なサービスが登場
@@ -103,9 +103,9 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 
 //footnote[DDIポケット][設立当初はDDIポケットという社名でしたが、ウィルコムという名前に社名変更、イーアクセスと合併しヤフーが買収しワイモバイルと社名変更、最終的にはソフトバンクに吸収合併しました。現在もワイモバイル時代に作った「Y!Mobile」というブランドは残っている。]
 
-//footnote[SMSのキャリア相互接続][https://www.itmedia.co.jp/mobile/articles/1106/01/news086.html]
+//footnote[SMSのキャリア相互接続][@<href>{https://www.itmedia.co.jp/mobile/articles/1106/01/news086.html}]
 
-//footnote[PHS回線向け][https://www.softbank.jp/corp/group/ym/news/info/2014/20140925_01/]
+//footnote[PHS回線向け][@<href>{https://www.softbank.jp/corp/group/ym/news/info/2014/20140925_01/}]
 
 === メッセージサービスのメール機能
 
@@ -130,13 +130,13 @@ PHSのメッセージサービスである、Pメール（DDIポケット）・�
 
 //footnote[ポータルサイト][ポータルサイトはインターネットに接続したときの入口として機能するもので、検索をはじめとする利用者が使いやすいサイトとして、提供側はユーザーの囲い込みとして存在している。]
 
-//footnote[livedoorメール][https://www.itmedia.co.jp/news/articles/1303/26/news050.html]
+//footnote[livedoorメール][@<href>{https://www.itmedia.co.jp/news/articles/1303/26/news050.html}]
 
-//footnote[gooメール][https://mail.goo.ne.jp/info/notice008.html]
+//footnote[gooメール][@<href>{https://mail.goo.ne.jp/info/notice008.html}]
 
-//footnote[Infoseekメール][https://special.infoseek.co.jp/mail/mail_information/announcement_is_close2.html]
+//footnote[Infoseekメール][@<href>{https://special.infoseek.co.jp/mail/mail_information/announcement_is_close2.html}]
 
-//footnote[エキサイトメール][https://blog.excite.co.jp/exfreemail/27266782/]
+//footnote[エキサイトメール][@<href>{https://blog.excite.co.jp/exfreemail/27266782/}]
 
 
 

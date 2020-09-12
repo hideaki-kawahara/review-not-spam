@@ -4,7 +4,7 @@
 
 ====[column] 受信許可リストという表現について
 Black Lives Matter（ブラック・ライブズ・マター）@<br>{}
-https://www3.nhk.or.jp/news/special/presidential-election_2020/demonstration/demonstration_01.html を合い言葉に黒人差別への抗議が広がっていく中で、コンピューターの世界で使用されている言葉の言い換えが起こりました。
+@<href>{https://www3.nhk.or.jp/news/special/presidential-election_2020/demonstration/demonstration_01.html}を合い言葉に黒人差別への抗議が広がっていく中で、コンピューターの世界で使用されている言葉の言い換えが起こりました。
 今まで、迷惑メールの対応方法で使用されていた「ホワイトリスト／ブラックリスト」も対象となり、今後は使用されなくなる可能性が非常に高いです。
 どのような名称にするか決まっていないところが多いですが、本書では「受信許可リスト／受信拒否リスト」という表記に統一します。
 ====[/column]
@@ -54,14 +54,14 @@ UQモバイル@<fn>{uq}	220	200
 ワイモバイル@<fn>{softbank2}	許可／拒否併用300
 //}
 
-//footnote[iCloud][https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud]
-//footnote[Outlook][https://support.microsoft.com/ja-jp/office/5ae3ea8e-cf41-4fa0-b02a-3b96e21de089]
-//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007401]
-//footnote[docomo][https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/]
-//footnote[au1][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/domain/]
-//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/block/]
-//footnote[au3][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/friendmail/]
-//footnote[uq][https://www.uqwimax.jp/mobile/support/guide/mail/]
-//footnote[softbank1][https://www.softbank.jp/mobile/support/mail/antispam/email-i/white/]
-//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/email-i/black-only/]
-//footnote[ymobile][https://www.ymobile.jp/service/others/spam/]
+//footnote[iCloud][@<href>{https://support.apple.com/ja-jp/guide/icloud/mm6b1a3f8a/icloud}]
+//footnote[Outlook][@<href>{https://support.microsoft.com/ja-jp/office/5ae3ea8e-cf41-4fa0-b02a-3b96e21de089}]
+//footnote[yahoo][@<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007401}]
+//footnote[docomo][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/spmode/domain/}]
+//footnote[au1][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/domain/}]
+//footnote[au2][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/block/}]
+//footnote[au3][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/friendmail/}]
+//footnote[uq][@<href>{https://www.uqwimax.jp/mobile/support/guide/mail/}]
+//footnote[softbank1][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/white/}]
+//footnote[softbank2][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/black-only/}]
+//footnote[ymobile][@<href>{https://www.ymobile.jp/service/others/spam/}]

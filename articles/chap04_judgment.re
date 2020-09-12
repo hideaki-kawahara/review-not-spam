@@ -152,7 +152,7 @@ Gmailの例を掲載します。「すべての設定を表示」から「メッ
 //image[gmail2][ 下記の画像を表示][scale=0.8]{
 //}
 
-//footnote[Cookie][https://support.google.com/mail/answer/145919?co=GENIE.Platform%3DDesktop&hl=ja]
+//footnote[Cookie][@<href>{https://support.google.com/mail/answer/145919?co=GENIE.Platform%3DDesktop&hl=ja}]
 
 
 == ストーリーメール
@@ -198,8 +198,8 @@ Gmailの例を掲載します。「すべての設定を表示」から「メッ
 
 また、そのようなメールを携帯電話会社では迷惑メールフィルターとして提供しておりましたが、NTTドコモでは2014年4月8日に廃止@<fn>{mishoudaku}されました。
 
-//footnote[tokutei][https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email]
+//footnote[tokutei][@<href>{https://www.caa.go.jp/policies/policy/consumer_transaction/specifed_email}]
 
-//footnote[dekyo][https://www.dekyo.or.jp/soudan/contents/taisaku/1-2.html]
+//footnote[dekyo][@<href>{https://www.dekyo.or.jp/soudan/contents/taisaku/1-2.html}]
 
-//footnote[mishoudaku][https://www.nttdocomo.co.jp/info/notice/page/131219_00.html]
+//footnote[mishoudaku][@<href>{https://www.nttdocomo.co.jp/info/notice/page/131219_00.html}]

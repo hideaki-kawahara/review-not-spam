@@ -61,7 +61,7 @@ Cさん「LINEは、プライベートなやり取りができるから、メー
 Cさん「あ、そういえば、LINEのパスワード覚えてない・・・。」@<br>{}
 筆者「生体認証を設定していれば、アカウント引き継ぎする前にパスワードの再設定を行えばよいのですが、生体認証がないとパスワードの再設定にはメールアドレスが必要なのです。」@<br>{}
 
-//footnote[line][メールアドレスの登録・変更方法 @<href>{https://guide.line.me/ja/beginner/set-email-address.html}]
+//footnote[line][@<href>{https://guide.line.me/ja/beginner/set-email-address.html}]
 
 
 
@@ -84,11 +84,11 @@ Dさん「メールだけの契約があればと思います。」@<br>{}
 Dさん「これなら、スタートアップ企業でも導入できそうですね。」@<br>{}
 筆者「それだと色々な書類などをメールで行うしかなくなるので、添付ファイルをパスワード付きzipにしてメールして、後続メールでパスワード別送にしないといけなくなるので、オンラインストレージがあるサービスを利用するのを推奨します。」@<br>{}
 
-//footnote[trouble][GmailとGoogleドライブなどで障害　ファイルの添付やアップロードに不具合 @<href>{https://www.itmedia.co.jp/news/articles/2008/20/news103.html}]
+//footnote[trouble][@<href>{https://www.itmedia.co.jp/news/articles/2008/20/news103.html}]
 
 //footnote[GSuite][@<href>{https://gsuite.google.co.jp/intl/ja/features/}]
 
-//footnote[Microsoft365business][(@<href>{https://www.microsoft.com/ja-jp/microsoft-365/business/compare-all-microsoft-365-business-products}]
+//footnote[Microsoft365business][@<href>{https://www.microsoft.com/ja-jp/microsoft-365/business/compare-all-microsoft-365-business-products}]
 
 //footnote[Microsoft365][Microsoft365は年契約にすると、1ユーザー月額540円（税別）から利用できます。]
 

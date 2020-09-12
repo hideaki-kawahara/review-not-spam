@@ -24,12 +24,12 @@ au	メールヘッダ情報を確認する@<fn>{au}
 //image[iCloud][iCloudのメールヘッダー表示][scale=1]{
 //}
 
-//footnote[Gmail][https://support.google.com/mail/answer/29436]
-//footnote[Outlook][https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c]
-//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254]
-//footnote[docomo][https://mail.smt.docomo.ne.jp/help/help_read_header.html]
-//footnote[au][https://www.au.com/mobile/service/webmail/usage/spam/#anc03]
-//footnote[softbank][https://www.softbank.jp/support/faq/view/10356]
+//footnote[Gmail][@<href>{https://support.google.com/mail/answer/29436}]
+//footnote[Outlook][@<href>{https://support.microsoft.com/ja-jp/office/cd039382-dc6e-4264-ac74-c048563d212c}]
+//footnote[yahoo][@<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007254}]
+//footnote[docomo][@<href>{https://mail.smt.docomo.ne.jp/help/help_read_header.html}]
+//footnote[au][@<href>{https://www.au.com/mobile/service/webmail/usage/spam/#anc03}]
+//footnote[softbank][@<href>{https://www.softbank.jp/support/faq/view/10356}]
 
 == SPFレコードの確認
 Received-SPF:がSPFレコードになります。
@@ -69,12 +69,5 @@ policy	 メールは署名されたがポリシーによって受け入れない
 
 DMARC認証はDomain-based Message Authentication、Reporting and Conformanceと呼ばれもので、SPF認証やDKIM認証が失敗したときの受信するかどうかはメール受信側に委ねられていました。ドメインを詐称された側はDMARCレコードに設定したDMARCポリシーとして宣言することでメール受信側に受信ルールを依頼できます。
 
-
-//table[dmarc][DMARCレコードの結果]{
-結果	意味
------------------
-pass	SPF認証とDKIM認証は通過したので通す
-quarantine	認証エラーなのでメールサーバーで隔離する
-reject	 認証エラーなので受信拒否する
-//}
+DMARCポリシーでpassとされるとメールは受信されます。それ以外は「認証エラーなのでメールサーバーで隔離」か「認証エラーなので受信拒否」になります。
 

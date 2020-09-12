@@ -40,12 +40,12 @@ au	auスマートフォンで受信された迷惑メールを転送される場
 //}
 
 
-//footnote[gmail][https://support.google.com/mail/answer/1366858]
-//footnote[icloud][https://support.apple.com/ja-jp/HT204759]
-//footnote[outlook][https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft]
-//footnote[yahoo][https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007405]
-//footnote[docomo][https://www.nttdocomo.co.jp/service/omakase_block/offer_information/index.html]
-//footnote[au][https://www.au.com/support/service/mobile/trouble/mail/common/report/#au_mailApp]
+//footnote[gmail][@<href>{https://support.google.com/mail/answer/1366858}]
+//footnote[icloud][@<href>{https://support.apple.com/ja-jp/HT204759}]
+//footnote[outlook][@<href>{https://docs.microsoft.com/ja-jp/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft}]
+//footnote[yahoo][@<href>{https://knowledge.support.yahoo-net.jp/PccMail/s/article/H000007405}]
+//footnote[docomo][@<href>{https://www.nttdocomo.co.jp/service/omakase_block/offer_information/index.html}]
+//footnote[au][@<href>{https://www.au.com/support/service/mobile/trouble/mail/common/report/#au_mailApp}]
 
 次に対応したいことは、送信元のメールアドレスが携帯電話会社ならば、携帯電話会社に迷惑メールを報告することで迷惑メールを止めることができます。これは非常に効果があるので実践してください。
 
@@ -69,8 +69,8 @@ au	迷惑メールご申告方法@<fn>{au2}
 
 
 情報提供のお願い | 迷惑メール相談センター@<br>{}
-https://www.dekyo.or.jp/soudan/contents/ihan/index.html
+@<href>{https://www.dekyo.or.jp/soudan/contents/ihan/index.html}
 
-//footnote[docomo2][https://www.nttdocomo.co.jp/info/spam_mail/if/mobile/index.html]
-//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/common/report/]
-//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/howto/report/]
+//footnote[docomo2][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/if/mobile/index.html}]
+//footnote[au2][@<href>{https://www.au.com/support/service/mobile/trouble/mail/common/report/}]
+//footnote[softbank2][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/howto/report/}]

@@ -31,10 +31,10 @@ UQモバイル	メールサービス@<fn>{uq}
 ソフトバンク	なりすましメール拒否設定@<fn>{softbank}
 //}
 
-//footnote[docomo][https://www.nttdocomo.co.jp/info/spam_mail/easy_setup/]
-//footnote[au][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/forgery/]
-//footnote[uq][https://www.uqwimax.jp/mobile/support/guide/mail/]
-//footnote[softbank][https://www.softbank.jp/mobile/support/mail/antispam/mms/antispoof/]
+//footnote[docomo][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/easy_setup/}]
+//footnote[au][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/forgery/}]
+//footnote[uq][@<href>{https://www.uqwimax.jp/mobile/support/guide/mail/}]
+//footnote[softbank][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/mms/antispoof/}]
 
 
 === 携帯/PHS以外のメール拒否設定（全携帯電話会社対応）
@@ -50,9 +50,9 @@ au	事業者毎に受信を設定@<fn>{au2}
 ソフトバンク	ケータイ・PHSからのメールのみ許可@<fn>{softbank2}
 //}
 
-//footnote[docomo2][https://www.nttdocomo.co.jp/info/spam_mail/spmode/mail_setup/index.html]
-//footnote[au2][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/mailsetting/]
-//footnote[softbank2][https://www.softbank.jp/mobile/support/mail/antispam/email-i/handset-phs/]
+//footnote[docomo2][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/spmode/mail_setup/index.html}]
+//footnote[au2][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/mailsetting/}]
+//footnote[softbank2][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/email-i/handset-phs/}]
 
 
 ==={HTML} HTMLメール規制
@@ -66,7 +66,7 @@ HTMLメールは画像付きのメールみたいなものです。文字情報�
 
 
 URLリンク／HTMLメール規制@<br>{}
-https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/
+@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/}
 
 === URL規制
 @<b>{携帯電話会社で、少々機能が異なります。}
@@ -84,9 +84,9 @@ au	URLリンク／HTMLメール規制@<fn>{au3}
 ソフトバンク	URLリンク付き メール拒否設定@<fn>{softbank3}
 //}
 
-//footnote[docomo3][https://www.nttdocomo.co.jp/info/spam_mail/url/]
-//footnote[au3][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/]
-//footnote[softbank3][https://www.softbank.jp/mobile/support/mail/antispam/mms/antiurl/]
+//footnote[docomo3][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/url/}]
+//footnote[au3][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/antiurl/}]
+//footnote[softbank3][@<href>{https://www.softbank.jp/mobile/support/mail/antispam/mms/antiurl/}]
 
 
 
@@ -109,8 +109,8 @@ au	ウイルスメール規制@<fn>{au4}
 ソフトバンク	なし
 //}
 
-//footnote[docomo4][https://www.nttdocomo.co.jp/info/spam_mail/rejection_setup/]
-//footnote[au4][https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/virus_mail/]
+//footnote[docomo4][@<href>{https://www.nttdocomo.co.jp/info/spam_mail/rejection_setup/}]
+//footnote[au4][@<href>{https://www.au.com/support/service/mobile/trouble/mail/email/filter/detail/virus_mail/}]
 
 === 大量送信者からのメール拒否設定
 @<b>{設定しておいてください。}
@@ -118,7 +118,7 @@ au	ウイルスメール規制@<fn>{au4}
 NTTドコモからNTTドコモに1日500通以上送信されたらメールを拒否する設定です。ときどきバイトと称して携帯電話に契約させて迷惑メールを送信する方が居るので、この設定は有効にしておいてください。@<b>{短文迷惑メールにも効果があるのでNTTドコモの方は必須の設定}です。
 
 大量送信者からのメール拒否設定@<br>{}
-https://www.nttdocomo.co.jp/info/spam_mail/mail_limit/
+@<href>{https://www.nttdocomo.co.jp/info/spam_mail/mail_limit/}
 
 === シークレットコード登録
 NTTドコモだけにある機能です。この迷惑メールフィルターを使用している人は居ないとは思いますが、機能としてあるので紹介しておきます。NTTドコモの携帯電話でiモード契約をしていると「電話番号@docomo.ne.jp」が設定できますが（スマートフォン契約では電話番号をメールアドレスに設定はできません）、このメールのときだけ特別なルールが設定できます。
@@ -127,7 +127,7 @@ NTTドコモだけにある機能です。この迷惑メールフィルター�
 
 
 NTTドコモ：シークレットコード登録@<br>{}
-https://www.nttdocomo.co.jp/info/spam_mail/secret_code/
+@<href>{https://www.nttdocomo.co.jp/info/spam_mail/secret_code/}
 
 
 == 間違ってフィルタリングされたら？
